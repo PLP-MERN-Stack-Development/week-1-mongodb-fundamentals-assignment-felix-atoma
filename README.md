@@ -45,3 +45,27 @@ Your work will be automatically submitted when you push to your GitHub Classroom
 - [MongoDB Documentation](https://docs.mongodb.com/)
 - [MongoDB University](https://university.mongodb.com/)
 - [MongoDB Node.js Driver](https://mongodb.github.io/node-mongodb-native/) 
+
+
+<!-- Assignment week1 -->
+# MongoDB Bookstore Assignment
+
+## Implementation Details
+
+This repository contains the MongoDB implementation for the PLP Bookstore assignment, including:
+- Database setup and population
+- CRUD operations
+- Advanced queries
+- Aggregation pipelines
+- Indexing optimizations
+
+## How to Run
+
+1. Install dependencies:
+   ```bash
+   npm install mongodb
+   node insert_books.js
+node queries.js
+node advanced_queries.js
+node aggregations.js
+node indexing.js
